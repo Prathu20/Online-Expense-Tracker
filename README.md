@@ -5,11 +5,13 @@ The Online Expense Tracker is a sophisticated web-based application aimed at hel
 The application leverages a robust technology stack, including Java, JSP, Servlets, Hibernate, HTML, CSS, Bootstrap, and MySQL, to deliver a seamless and user-friendly experience. 
 This system allows users to record, view, edit, and delete their expenses, providing comprehensive tools for financial management.
 
+
 **Key Features:**
 
 **1) User Registration:**
 Facilitates new user account creation with essential details.
 Ensures secure storage of user information in the MySQL database.
+
 
 **2)User Authentication:**
 
@@ -18,6 +20,7 @@ Allows registered users to access their accounts using secure credentials.
 
 **Logout:** 
 Safely terminates user sessions and protects sensitive data.
+
 
 **3) Expense Management:**
 
@@ -32,6 +35,7 @@ Safely terminates user sessions and protects sensitive data.
 
 **Delete Expense:**
 -Allows users to remove unnecessary expenses from the database.
+
 
 **Technological Stack:**
 
@@ -49,6 +53,7 @@ Ensures responsive design and enhanced user interface.
 **JSP (JavaServer Pages):** 
 Renders dynamic content on the web pages.
 
+
 **Backend:**
 
 **Java:** 
@@ -60,10 +65,12 @@ Manages client requests and server responses.
 **Hibernate:** 
 Facilitates efficient database interactions through ORM (Object-Relational Mapping).
 
+
 **Database:**
 
 **MySQL:** 
 Provides secure storage and retrieval of user and expense data.
+
 
 **Conclusion:**
 The Online Expense Tracker project stands out as a reliable and user-friendly tool for managing personal finances. 
