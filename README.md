@@ -12,8 +12,10 @@ Facilitates new user account creation with essential details.
 Ensures secure storage of user information in the MySQL database.
 
 **2)User Authentication:**
+
 **Login:** 
 Allows registered users to access their accounts using secure credentials.
+
 **Logout:** 
 Safely terminates user sessions and protects sensitive data.
 
@@ -21,34 +23,45 @@ Safely terminates user sessions and protects sensitive data.
 
 **Add Expense:**
 -Enables users to log new expenses with details such as amount, date, category, and description.
+
 **Show Expenses:**
 -Displays all recorded expenses in a structured and user-friendly interface.
+
 **Edit Expense:**
 -Provides functionality for updating existing expense details.
+
 **Delete Expense:**
 -Allows users to remove unnecessary expenses from the database.
 
 **Technological Stack:**
 
 **Frontend:**
+
 **HTML:** 
 Constructs the structure of web pages.
+
 **CSS:** 
 Styles the web pages for visual appeal.
+
 **Bootstrap:** 
 Ensures responsive design and enhanced user interface.
+
 **JSP (JavaServer Pages):** 
 Renders dynamic content on the web pages.
 
 **Backend:**
+
 **Java:** 
 Serves as the primary programming language for backend logic.
+
 **Servlets:** 
 Manages client requests and server responses.
+
 **Hibernate:** 
 Facilitates efficient database interactions through ORM (Object-Relational Mapping).
 
 **Database:**
+
 **MySQL:** 
 Provides secure storage and retrieval of user and expense data.
 
